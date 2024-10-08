@@ -13,6 +13,7 @@ while True:
 num.append(1)
 print(max(num), min(num))
 
+
 # arr = []
 # while True:
 #   try:
