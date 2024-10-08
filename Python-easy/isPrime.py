@@ -1,3 +1,4 @@
+# given a array of numbers, check if the number inside are prime or not. and print 0 for not prime and 1 for prime..
 def isPrime(i):
   prime = True
   if i < 2:
